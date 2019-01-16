@@ -17,7 +17,7 @@ exports[`should render ExpenseListItem 1`] = `
   </p>
   <p>
     Created At: 
-    -345600000
+    December 28th, 1969
   </p>
 </div>
 `;
